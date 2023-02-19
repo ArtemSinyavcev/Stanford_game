@@ -3,7 +3,6 @@
 //  Stanford_game
 //
 //  Created by Артём Синявцев on 19.02.2023.
-//
 
 //   MARK: -    МОДЕЛЬ
 
