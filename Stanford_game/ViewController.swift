@@ -57,8 +57,6 @@ class ViewController: UIViewController {
         }
     }
     
-    
-    
     @IBOutlet var bottunCollection: [UIButton]!
     @IBOutlet weak var touchLabel: UILabel!
     @IBAction func buttonAction(_ sender: UIButton) {
@@ -72,6 +70,3 @@ class ViewController: UIViewController {
     }
     
 }
-
-
-
